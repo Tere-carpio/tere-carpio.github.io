@@ -1,0 +1,1 @@
+getDocumentByTagName("li").innerHTML = "";
